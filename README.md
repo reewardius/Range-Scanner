@@ -31,9 +31,9 @@ python3 scan.py
 
 # How to Use
 
-Enter your Ip first
+Enter your target Ip first
 
-for example your ip is 133.133.133.133
+for example your target ip is 133.133.133.133
 
 and program will ask you start and end number
 
