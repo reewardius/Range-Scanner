@@ -41,3 +41,4 @@ if you enter start number to 0 and end number to 10
 
 it will scan ip from 133.133.133.0 to 133.133.133.10
 
+note: run as root user if you are using linux(pc)
